@@ -1,0 +1,1 @@
+This folder is for custom assets, media, and optional enhancements for the birthday surprise website.
